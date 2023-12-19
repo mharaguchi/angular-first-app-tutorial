@@ -1,0 +1,6 @@
+To run:
+Navigate to angular-first-app-tutorial folder
+In 1 terminal, run json-server --watch db.json
+In a 2nd terminal, run ng serve
+
+In browser, go to http://localhost:4200
